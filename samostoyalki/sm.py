@@ -7,10 +7,9 @@ for x in alph[:32]:
     num3 = int('2861' + x + '637', 32)
     num = num1 + num2 + num3
     if num % 31 == 0:
-        print(num // 31)
+        print(num // 3
 
 
 
-
-
+print(5000/2**23)
 
